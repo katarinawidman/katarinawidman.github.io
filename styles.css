@@ -1,0 +1,72 @@
+/*mobile*/
+
+.image-press {
+	width: 250px;
+	border-radius: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.name {
+	text-align: center;
+	font-family: roboto;
+	color: grey;
+	font-size: 24px; 
+}
+
+.title {
+	text-align: center;
+	font-family: roboto;
+	color: grey;
+	font-size: 18px; 
+}
+
+.intro-text {
+	text-align: center;
+	font-family: roboto;
+	color: grey;
+	font-size: 14px; 
+
+}
+.links {
+	margin-left:10px;
+	margin-right: 10px;
+	margin-bottom: 50px; 
+	}
+.linkspace {
+	margin-top: 20px;
+	margin-left: 20px; 
+	margin-right: 20px;
+}
+.jobb-image {
+	margin-top: 10px;
+	width: 70px;
+}
+
+.jobb {
+	text-align: center; 
+	margin-top: 30px;
+}
+
+.jobb-text {
+	margin-right: 30px;
+	margin-left: 30px;
+}
+.avslut {
+	background-color: lightblue;
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+
+.background-box {
+	background-color: lightblue;
+}
+
+@media only screen and (min-width: 480px) {
+	.avslut {
+		background-color: pink;
+	}
+}
